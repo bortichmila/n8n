@@ -1,0 +1,11 @@
+{
+  "name": "Telegram AI Agent",
+  "nodes": [],
+  "connections": {},
+  "settings": {},
+  "pinData": {},
+  "versionId": "placeholder",
+  "meta": {
+    "description": "Telegram bot AI agent workflow. Replace this file with exported JSON from n8n."
+  }
+}
